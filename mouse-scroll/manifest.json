@@ -1,0 +1,10 @@
+{
+    "name": "Simple Mouse Scrolling",
+    "author": "Lighty",
+    "description": "Use your Mouse to scroll around your page!",
+    "version": "1.0.0",
+    "sprites": [
+        "Mouse Scroll.sprite3"
+    ],
+    "blocks": []
+}
