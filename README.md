@@ -1,0 +1,1 @@
+# scratchypkg_examples
